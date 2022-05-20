@@ -1,4 +1,4 @@
-![Titanic.jpg](attachment:Titanic.jpg)
+![Titanic](https://user-images.githubusercontent.com/44786324/169540285-97daab0e-10f9-4682-a631-f842a8845121.jpg)
 ____
 
 ## `Project Overview`
@@ -13,7 +13,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 Titanic Data - Contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/44786324/169540340-4a9a9df6-84ee-4941-b02e-41965800ea50.png)
 
 **Pclass**:  A proxy for socio-economic status (SES)
 1st = Upper
